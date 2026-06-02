@@ -1,4 +1,4 @@
-# Hola! I'm Mert Savaşer 🇹🇷 🇪🇸
+I'm Mert Savaşer
 
 ### 🚀 Software Engineer | AI Systems Builder
 
@@ -59,7 +59,7 @@ AI-powered retrieval system for medical documents.
 
 * English (Upper B2 – IELTS 6.0)
 * Turkish (Native)
-* Spanish (Beginner – learning)
+* Spanish (Beginner – A2)
 
 ---
 
